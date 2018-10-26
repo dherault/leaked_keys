@@ -6,3 +6,4 @@ Some leaked API keys to be detected by GitGuardian. All fake or rotated.
 
 - Salsa
 - Zumba
+- Rumba
